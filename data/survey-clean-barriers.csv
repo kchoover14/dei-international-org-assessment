@@ -1,0 +1,102 @@
+"Demographic_CareerStage","Demographic_Role","Demographic_Language","Barriers_Experience","Barriers_Experience_Binary","Barriers_Experience_Count","Barriers_Observe","Barriers_Observe_Binary","Barriers_Observe_Count"
+"Late","Leader","EFL","None","No",0,"None_observed","No",0
+"Early","Member","ESL","Time, Time_Zone","Yes",2,"Time, Time_Zone","Yes",2
+"Late","Member","EFL","Time","Yes",1,"None_observed","No",0
+"Early","Member","ESL","Time, Time_Zone","Yes",2,"None_observed","No",0
+"Early","Leader","ESL","Time_Zone","Yes",1,"None_observed","No",0
+"Early","Member","ESL","Time","Yes",1,"None_observed","No",0
+"Late","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Leader","ESL","None","No",0,"None_observed","No",0
+"Middle","Leader","ESL","None","No",0,"Time","Yes",1
+"Late","Member","ESL","Time","Yes",1,"None_observed","No",0
+"Early","Member","ESL","Language","Yes",1,"None_observed","No",0
+"Middle","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Leader","ESL","None","No",0,"Language, Time_Zone","Yes",2
+"Late","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Member","ESL","Time","Yes",1,"None_observed","No",0
+"Early","Member","EFL","Age, Time","Yes",2,"Language, Age, Time, Time_Zone","Yes",4
+"Middle","Member","Other","None","No",0,"None_observed","No",0
+"Early","Member","ESL","Time","Yes",1,"Time","Yes",1
+"Early","Member","EFL","Time","Yes",1,"None_observed","No",0
+"Late","Member","EFL","Time","Yes",1,"None_observed","No",0
+"Late","Member","EFL","None","No",0,"None_observed","No",0
+"Late","Leader","ESL","Time_Zone","Yes",1,"Time","Yes",1
+"Middle","Member","ESL","Time","No",0,"None_observed","No",0
+"Late","Leader","EFL","Time","Yes",1,"None_observed","No",0
+"Late","Member","ESL","Language","Yes",1,"None_observed","No",0
+"Middle","Member","ESL","None","No",0,"None_observed","No",0
+"Middle","Member","ESL","Not_listed","Yes",2,"None_observed","No",0
+"Early","Leader","Other","None","No",0,"None_observed","No",0
+"Late","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Member","ESL","Time, Not_listed","Yes",3,"None_observed","No",0
+"Early","Leader","ESL","Time","Yes",1,"None_observed","No",0
+"Late","Member","EFL","Time","Yes",1,"None_observed","No",0
+"Late","Member","EFL","None","No",0,"None_observed","No",0
+"Middle","Member","Other","None","No",0,"Time_Zone","Yes",1
+"Late","Leader","Other","None","No",0,"None_observed","No",0
+"Middle","Leader","ESL","Time","No",0,"None_observed","No",0
+"Late","Member","EFL","None","No",0,"None_observed","No",0
+"Middle","Leader","ESL","None","No",0,"None_observed","No",0
+"Late","Leader","ESL","Language","Yes",1,"Time","Yes",1
+"Middle","Leader","ESL","Time, Time_Zone","Yes",2,"Time, Time_Zone","Yes",2
+"Early","Member","EFL","None","No",0,"None_observed","No",0
+"Late","Member","EFL","None","No",0,"None_observed","No",0
+"Late","Leader","EFL","None","No",0,"Time_Zone","Yes",1
+"Late","Member","ESL","None","No",0,"None_observed","No",0
+"Middle","Member","EFL","None","No",0,"None_observed","No",0
+"Middle","Member","ESL","Language, Race, Time_Zone","Yes",3,"Language, Race, Time_Zone","Yes",3
+"Middle","Member","ESL","Time","Yes",1,"Time","Yes",1
+"Late","Leader","ESL","None","No",0,"Language, Age, Time, Time_Zone","Yes",4
+"Early","Leader","ESL","None","No",0,"None_observed","No",0
+"Early","Leader","ESL","None","No",0,"None_observed","No",0
+"Early","Leader","ESL","None","No",0,"None_observed","No",0
+"Late","Member","ESL","Time","Yes",1,"Not_listed","Yes",2
+"Early","Member","ESL","Language","Yes",1,"None_observed","No",0
+"Late","Leader","ESL","Time","Yes",1,"Time","Yes",1
+"Late","Member","ESL","Time","Yes",1,"None_observed","No",0
+"Late","Member","EFL","Time","Yes",1,"Time","Yes",1
+"Middle","Member","EFL","Time","Yes",1,"Time","Yes",1
+"Late","Member","ESL","Time, Not_listed","Yes",3,"Time","Yes",1
+"Late","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Member","EFL","Time","Yes",1,"None_observed","No",0
+"Middle","Leader","ESL","Time","Yes",1,"Not_listed","Yes",2
+"Late","Member","ESL","Time","Yes",1,"None_observed","No",0
+"Early","Member","Other","None","No",0,"None_observed","No",0
+"Late","Member","ESL","Language","Yes",1,"Language","Yes",1
+"Late","Member","ESL","Time","Yes",1,"None_observed","No",0
+"Early","Member","ESL","None","No",0,"None_observed","No",0
+"Early","Member","ESL","Time","Yes",1,"Not_listed","Yes",2
+"Late","Member","ESL","Time_Zone","Yes",1,"None_observed","No",0
+"Late","Leader","ESL","Time, Time_Zone","Yes",2,"None_observed","No",0
+"Late","Member","ESL","Time","Yes",1,"Language, Time_Zone","Yes",2
+"Late","Member","EFL","Time","Yes",1,"None_observed","No",0
+"Late","Leader","ESL","None","No",0,"None_observed","No",0
+"Late","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Leader","EFL","None","No",0,"Language","Yes",1
+"Middle","Member","ESL","Language","Yes",1,"Time","Yes",1
+"Early","Leader","EFL","Time","Yes",1,"None_observed","No",0
+"Middle","Leader","EFL","None","No",0,"Language, Gender, Age, Time_Zone","Yes",4
+"Late","Member","EFL","Time","No",0,"None_observed","No",0
+"Late","Member","ESL","Time","Yes",1,"Not_listed","Yes",2
+"Early","Member","ESL","Not_listed","Yes",2,"Not_listed","Yes",2
+"Late","Member","ESL","Time_Zone","Yes",1,"Language","Yes",1
+"Late","Member","EFL","None","No",0,"Time_Zone","Yes",1
+"Middle","Member","ESL","None","No",0,"None_observed","No",0
+"Early","Member","Other","Not_listed","Yes",2,"None_observed","No",0
+"Early","Member","ESL","None","No",0,"None_observed","No",0
+"Early","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Leader","ESL","Time","Yes",1,"None_observed","No",0
+"Late","Member","EFL","None","No",0,"Not_listed","Yes",2
+"Late","Leader","EFL","Time, Not_listed","Yes",3,"Language, Race, Gender, Age, Disability","Yes",5
+"Early","Leader","ESL","None","No",0,"None_observed","No",0
+"Middle","Leader","Other","Disability, Time","Yes",2,"Language, Time_Zone","Yes",2
+"Early","Leader","ESL","None","No",0,"None_observed","No",0
+"Late","Member","EFL","None","No",0,"None_observed","No",0
+"Middle","Leader","ESL","Time, Time_Zone","Yes",2,"Time_Zone","Yes",1
+"Late","Member","ESL","None","No",0,"None_observed","No",0
+"Late","Leader","ESL","Time_Zone","Yes",1,"Time","Yes",1
+"Middle","Member","EFL","None","No",0,"None_observed","No",0
+"Middle","Leader","ESL","Language, Not_listed","Yes",3,"Language, Time, Not_listed","Yes",4
+"Late","Member","EFL","None","No",0,"None_observed","No",0
+"Middle","Member","ESL","Time","No",0,"None_observed","No",0
+"Middle","Leader","ESL","Language","Yes",1,"Time","Yes",1

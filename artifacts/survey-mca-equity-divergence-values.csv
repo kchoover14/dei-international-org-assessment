@@ -1,0 +1,24 @@
+"Type" "Barrier" "Category" "Min_Prop" "Max_Prop" "Spread" "Leader" "Member" "Max_Group" "Min_Group" "Mid_Prop" "Mid_Group" "EFL" "ESL" "Other" "Early" "Late" "Middle"
+"1" "Experienced" "Time" "Role" 0.3 0.3944 0.0944 0.3 0.3944 "Member" "Leader" NA NA NA NA NA NA NA NA
+"2" "Experienced" "TimeZone" "Role" 0.0704 0.15 0.0796 0.15 0.0704 "Leader" "Member" NA NA NA NA NA NA NA NA
+"3" "Experienced" "None" "Role" 0.3803 0.425 0.0447 0.425 0.3803 "Leader" "Member" NA NA NA NA NA NA NA NA
+"4" "Experienced" "None" "Language" 0.32 1 0.68 NA NA "Other" "ESL" 0.5357 "EFL" 0.5357 0.32 1 NA NA NA
+"5" "Experienced" "Time" "Language" 0 0.4643 0.4643 NA NA "EFL" "Other" 0.3467 "ESL" 0.4643 0.3467 0 NA NA NA
+"6" "Experienced" "TimeZone" "Language" 0 0.1467 0.1467 NA NA "ESL" "EFL" 0 "Other" 0 0.1467 0 NA NA NA
+"7" "Experienced" "Language" "Language" 0 0.12 0.12 NA NA "ESL" "EFL" 0 "Other" 0 0.12 0 NA NA NA
+"8" "Experienced" "Language" "Career Stage" 0.0536 0.1429 0.0893 NA NA "Middle" "Late" 0.0741 "Early" NA NA NA 0.0741 0.0536 0.1429
+"9" "Experienced" "Time" "Career Stage" 0.3214 0.3929 0.0715 NA NA "Late" "Middle" 0.3333 "Early" NA NA NA 0.3333 0.3929 0.3214
+"10" "Experienced" "None" "Career Stage" 0.3571 0.4107 0.0536 NA NA "Late" "Middle" 0.4074 "Early" NA NA NA 0.4074 0.4107 0.3571
+"11" "Experienced" "TimeZone" "Career Stage" 0.0893 0.1111 0.0218 NA NA "Early" "Late" 0.1071 "Middle" NA NA NA 0.1111 0.0893 0.1071
+"12" "Observed" "None" "Role" 0.375 0.662 0.287 0.375 0.662 "Member" "Leader" NA NA NA NA NA NA NA NA
+"13" "Observed" "Language" "Role" 0.0704 0.1458 0.0754 0.1458 0.0704 "Leader" "Member" NA NA NA NA NA NA NA NA
+"14" "Observed" "Time" "Role" 0.1127 0.1875 0.0748 0.1875 0.1127 "Leader" "Member" NA NA NA NA NA NA NA NA
+"15" "Observed" "TimeZone" "Role" 0.0845 0.1458 0.0613 0.1458 0.0845 "Leader" "Member" NA NA NA NA NA NA NA NA
+"16" "Observed" "TimeZone" "Language" 0.0933 0.2857 0.1924 NA NA "Other" "ESL" 0.1143 "EFL" 0.1143 0.0933 0.2857 NA NA NA
+"17" "Observed" "Time" "Language" 0 0.1867 0.1867 NA NA "ESL" "Other" 0.0857 "EFL" 0.0857 0.1867 0 NA NA NA
+"18" "Observed" "None" "Language" 0.5429 0.7143 0.1714 NA NA "Other" "EFL" 0.5467 "ESL" 0.5429 0.5467 0.7143 NA NA NA
+"19" "Observed" "Language" "Language" 0 0.1143 0.1143 NA NA "EFL" "Other" 0.0933 "ESL" 0.1143 0.0933 0 NA NA NA
+"20" "Observed" "None" "Career Stage" 0.3667 0.7407 0.374 NA NA "Early" "Middle" 0.5862 "Late" NA NA NA 0.7407 0.5862 0.3667
+"21" "Observed" "Language" "Career Stage" 0 0.1333 0.1333 NA NA "Middle" "Early" 0.1207 "Late" NA NA NA 0 0.1207 0.1333
+"22" "Observed" "TimeZone" "Career Stage" 0.0741 0.2 0.1259 NA NA "Middle" "Early" 0.0862 "Late" NA NA NA 0.0741 0.0862 0.2
+"23" "Observed" "Time" "Career Stage" 0.1111 0.2333 0.1222 NA NA "Middle" "Early" 0.1207 "Late" NA NA NA 0.1111 0.1207 0.2333

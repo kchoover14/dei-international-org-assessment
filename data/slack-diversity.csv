@@ -1,0 +1,63 @@
+country,ISO3,Part_Ratio,Category
+Algeria,DZA,0.17750683580617688,Low Engagement
+Argentina,ARG,1.5901654040970012,High Engagement
+Australia,AUS,0.6935915250945061,Moderate Engagement
+Austria,AUT,0.3057062172217491,Low Engagement
+Belgium,BEL,0.3609305661392263,Low Engagement
+Botswana,BWA,0.059168945268725626,Low Engagement
+Brazil,BRA,1.0157335604464566,Moderate Engagement
+Canada,CAN,0.37638023518161584,Low Engagement
+Chile,CHL,2.070913084405397,High Engagement
+China,CHN,0.9762875969339728,Moderate Engagement
+Colombia,COL,0.4437670895154422,Low Engagement
+"Congo, Democratic Republic of the",COD,0.8579497063965216,Moderate Engagement
+Czech Republic,CZE,0.473351562149805,Low Engagement
+Denmark,DNK,0.08875341790308845,Low Engagement
+Ecuador,ECU,0.2070913084405397,Low Engagement
+Finland,FIN,0.21247030346496928,Low Engagement
+France,FRA,0.5657128425692792,Moderate Engagement
+Germany,DEU,2.206653605904238,High Engagement
+Greece,GRC,0.42009951140795193,Low Engagement
+India,IND,1.6736358804582392,High Engagement
+Indonesia,IDN,0.029584472634362813,Low Engagement
+Iran,IRN,0.2869693845533193,Low Engagement
+Ireland,IRL,0.2070913084405397,Low Engagement
+Israel,ISR,2.144874265991304,High Engagement
+Italy,ITA,1.3484291211241155,Moderate Engagement
+Japan,JPN,0.35712684822909396,Low Engagement
+Libya,LBY,0.5916894526872563,Moderate Engagement
+Luxembourg,LUX,0.14792236317181406,Low Engagement
+Malawi,MWI,0.08875341790308845,Low Engagement
+Malaysia,MYS,0.2070913084405397,Low Engagement
+Mexico,MEX,0.47335156214980506,Low Engagement
+Morocco,MAR,0.0,No Activity
+Netherlands,NLD,1.228775768554828,Moderate Engagement
+New Zealand,NZL,0.2884486081850374,Low Engagement
+Nigeria,NGA,0.47335156214980506,Low Engagement
+Norway,NOR,0.7100273432247075,Moderate Engagement
+Oman,OMN,0.6212739253216191,Moderate Engagement
+Paraguay,PRY,0.1775068358061769,Low Engagement
+Philippines,PHL,0.473351562149805,Low Engagement
+Poland,POL,0.2440718992334932,Low Engagement
+Portugal,PRT,0.2563987628311444,Low Engagement
+Qatar,QAT,2.1300820296741225,High Engagement
+Romania,ROU,0.059168945268725626,Low Engagement
+Russia,RUS,0.5621049800528934,Moderate Engagement
+Saudi Arabia,SAU,0.029584472634362813,Low Engagement
+Serbia,SRB,0.16482777610573565,Low Engagement
+Singapore,SGP,0.2588641355506746,Low Engagement
+Slovenia,SVN,0.6804428705903447,Moderate Engagement
+South Africa,ZAF,0.14792236317181406,Low Engagement
+South Korea,KOR,0.13017167959119635,Low Engagement
+Spain,ESP,0.18490295396476758,Low Engagement
+Sweden,SWE,0.5889999551750414,Moderate Engagement
+Switzerland,CHE,0.9762875969339728,Moderate Engagement
+Syria,SYR,0.059168945268725626,Low Engagement
+Taiwan,TWN,0.059168945268725626,Low Engagement
+Thailand,THA,0.2218835447577211,Low Engagement
+Turkey,TUR,3.0445111838271552,High Engagement
+United Arab Emirates,ARE,0.029584472634362813,Low Engagement
+United Kingdom,GBR,1.9299975700154057,High Engagement
+United States,USA,1.018570427685368,Moderate Engagement
+Uruguay,URY,0.029584472634362813,Low Engagement
+Venezuela,VEN,2.2484199202115738,High Engagement

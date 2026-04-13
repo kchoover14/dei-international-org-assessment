@@ -1,0 +1,10 @@
+Metric,Leadership_Mean,Leadership_SD,Member_Mean,Member_SD,All_Mean,All_SD
+Attention Getting,844.67,1111.78,37.71,85.22,65.61,267.39
+Outgoing Total,479.75,384.07,50.78,154.16,65.61,184.9
+Interaction,0.641,0.174,0.56,0.274,0.563,0.272
+Attention Seeking,3.433,2.128,1.855,2.023,1.91,2.047
+Reach,0.789,0.327,0.923,1.146,0.918,1.128
+Gini (personal),0.538,0.186,0.323,0.185,0.333,0.191
+Degree Centrality,0.4617,0.2914,0.0586,0.0847,0.0725,0.1236
+Betweenness Centrality,0.0395,0.0494,0.0011,0.0036,0.0024,0.0121
+Closeness Centrality,0.4347,0.0708,0.2805,0.12,0.2858,0.122
