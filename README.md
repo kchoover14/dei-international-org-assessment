@@ -4,7 +4,7 @@ This paper presents an evidence-based DEI policy framework for international sci
 
 ---
 
-### Published Paper
+### Paper in Review
 
 Hoover, K.C. et al. (under review). DEI assessment of an international scientific organization. *Diversity, Equity, and Inclusion: A Research and Practice Journal*.
 
