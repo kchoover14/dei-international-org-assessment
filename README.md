@@ -6,7 +6,7 @@ This paper presents an evidence-based DEI policy framework for international sci
 
 ### Paper in Review
 
-Hoover, K.C. et al. (under review). A Mixed-Methods Toolkit for Evidence-Based Diversity, Equity, and Inclusivity Policy in International Organizations. *Diversity, Equity, and Inclusion: A Research and Practice Journal*.
+Hoover, K.C. et al. (under review). A Mixed-Methods Toolkit for Evidence-Based Diversity, Equity, and Inclusivity Policy in International Organizations. *Diversity Inclusion Research*.
 
 ---
 
