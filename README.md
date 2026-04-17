@@ -26,7 +26,7 @@ The [portfolio page](https://kchoover14.github.io/dei-international-org-assessme
 | `scripts/survey4-inclusivity.R` | R | Inclusivity analysis: crosstabs, MCA figure |
 | `scripts/survey5-bibliometrics.R` | R | Bibliometric cleaning, corpus filtering, Sankey and network map |
 | `scripts/slack1-clean.ipynb` | Python | Slack export flattening, anonymization, participation ratios |
-| `scripts/slack2-explore.ipynb` | Python | Exploratory figures (voice, reactions, response, temporal) |
+| `scripts/slack2-explore.ipynb` | Python | Exploratory figures (voice, reactions, response, temporal) | (author: Ritesh Kumar)
 | `scripts/slack3-diversity.ipynb` | Python | Geographic diversity choropleth map |
 | `scripts/slack4-analysis.ipynb` | Python | Network metrics, equity and inclusivity network figures |
 
