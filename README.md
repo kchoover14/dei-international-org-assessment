@@ -10,7 +10,7 @@ Hoover, K.C. et al. (under review). A Mixed-Methods Toolkit for Evidence-Based D
 
 ---
 
-### Portfolio Page [COMING SOON]
+### Portfolio Page
 
 The [portfolio page](https://kchoover14.github.io/dei-international-org-assessment) includes a full project narrative, key findings, and figures.
 
